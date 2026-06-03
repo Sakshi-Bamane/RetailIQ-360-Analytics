@@ -222,7 +222,7 @@ This project demonstrates practical skills in:
 
 ## 📸 Dashboard Preview
 
-(Add your dashboard screenshot here)
+[Dashboard]:[https://github.com/Sakshi-Bamane/RetailIQ-360-Analytics/blob/main/snapshot%20of%20retails%20analysis.png]
 
 
 
