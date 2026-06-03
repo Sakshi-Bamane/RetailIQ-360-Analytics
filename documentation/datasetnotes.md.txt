@@ -1,0 +1,1 @@
+This dataset contains retail sales transactions including customer information, product categories, sales, profit, shipping mode, and regional data.
